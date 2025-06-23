@@ -1,0 +1,40 @@
+[
+  {
+    "cover": "https://i.ibb.co/rRpPdN4Y/1.jpg",
+    "title": "Exploring the Future of AI in Everyday Life",
+    "author_name": "Jordan Wells",
+    "author_img": "https://i.ibb.co/M5QLC2F8/girl2.jpg",
+    "post_date": "2025-06-15",
+    "hashtag": ["#AI", "#Technology", "#Future"],
+    "read_time": 6
+  },
+  {
+    "cover": "https://i.ibb.co/nsvmMNdS/2.png",
+    "title": "10 Minimalist Habits That Changed My Life",
+    "author_name": "Lena Morales",
+    "author_img": "https://i.ibb.co/N2yh3Cp7/girl1.jpg",
+    "post_date": "2025-05-28",
+    "hashtag": ["#Minimalism", "#Lifestyle", "#Productivity"],
+    "read_time": 4
+  },
+  {
+    "cover": "https://i.ibb.co/spKFHm8h/3.png",
+    "title": "The Beginner’s Guide to Investing in Crypto",
+    "author_name": "Marcus Tan",
+    "author_img": "https://i.ibb.co/tpyMg73s/boy2.jpg",
+    "post_date": "2025-06-10",
+    "hashtag": ["#Crypto", "#Investing", "#Finance"],
+    "read_time": 7
+  },
+  {
+    "cover": "https://i.ibb.co/CKXVnMsx/4.jpg",
+    "title": "Top 5 Nature Trails for a Weekend Getaway",
+    "author_name": "Sophie Laird",
+    "author_img": "https://i.ibb.co/35NzGt17/boy1.png",
+    "post_date": "2025-06-20",
+    "hashtag": ["#Travel", "#Nature", "#Adventure"],
+    "read_time": 5
+  }
+]
+
+
